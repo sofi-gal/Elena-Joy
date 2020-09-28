@@ -3,19 +3,19 @@
 @font-face
 {
     font-family: 'Ruhl';
-    src: url('/fonts/FrankRuhlLibre-Regular.ttf');
+    src: url('fonts/FrankRuhlLibre-Regular.ttf');
 }
 
 @font-face
 {
     font-family: 'Ruhl Medium';
-    src: url('/fonts/FrankRuhlLibre-Medium.ttf');
+    src: url('fonts/FrankRuhlLibre-Medium.ttf');
 }
 
 @font-face
 {
     font-family: 'Vibes';
-    src: url('/fonts/GreatVibes-Regular.ttf');
+    src: url('fonts/GreatVibes-Regular.ttf');
 }
 
 html
@@ -274,7 +274,7 @@ nav
 {
     grid-column: 1/3;
     grid-row: 1/4;
-    background-image: url('/img/gallery-1.jpg');
+    background-image: url('img/gallery-1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -284,7 +284,7 @@ nav
 {
     grid-column: 3/4;
     grid-row: 1/6;
-    background-image: url('/img/gallery-2.jpg');
+    background-image: url('img/gallery-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -292,7 +292,7 @@ nav
 
 .gallery3
 {
-    background-image: url('/img/gallery-3.jpg');
+    background-image: url('img/gallery-3.jpg');
     grid-row: 4/6;
     grid-column: 1;
     background-repeat: no-repeat;
@@ -302,7 +302,7 @@ nav
 
 .gallery4
 {
-    background-image: url('/img/gallery-4.jpg');
+    background-image: url('img/gallery-4.jpg');
     grid-row: 4/6;
     grid-column: 2;
     background-repeat: no-repeat;
